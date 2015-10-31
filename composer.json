@@ -1,6 +1,7 @@
 {
   "name": "torann/baun-asset-manifest",
   "description": "A Baun plugin that adds gulp asset manifest helper",
+  "keywords": ["baun", "baun plugin", "baun gulp", "baun assets", "baun manifest"],
   "license": "BSD 2-Clause",
   "authors": [
     {
