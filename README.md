@@ -1,5 +1,10 @@
 # Baun Asset Plugin
 
+A Baun plugin that adds gulp asset manifest helper
+
+- [Laravel Repository on Packagist](https://packagist.org/packages/torann/baun-asset-manifest)
+- [Laravel Repository on GitHub](https://github.com/torann/baun-asset-manifest)
+
 ## Installation
 
 From the command line run:
