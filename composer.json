@@ -1,0 +1,17 @@
+{
+  "name": "torann/baun-asset-manifest",
+  "description": "A Baun plugin that adds gulp asset manifest helper",
+  "license": "BSD 2-Clause",
+  "authors": [
+    {
+      "name": "Daniel Stainback",
+      "email": "daniel@lyften.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Torann\\AssetManifest\\": "src/"
+    }
+  }
+}
