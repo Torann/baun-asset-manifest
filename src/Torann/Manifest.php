@@ -56,7 +56,7 @@ class Manifest extends Plugin
      */
     private function asset($asset)
     {
-        return str_replace('//', '/', trim("{$this->assets_dir}/{$asset}", '/'));
+        return str_replace('//', '/', trim("/{$this->assets_dir}/{$asset}", '/'));
     }
 
     /**
